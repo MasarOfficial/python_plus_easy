@@ -1,0 +1,15 @@
+Wheel-Version: 1.0
+Generator: bdist_wheel (0.37.1)
+Root-Is-Purelib: false
+Tag: py3-none-any
+
+python_plus_easy-1.0.dist-info/
+python_plus_easy-1.0.dist-info/WHEEL
+python_plus_easy-1.0.dist-info/top_level.txt
+python_plus_easy-1.0.dist-info/RECORD
+python_plus_easy-1.0.dist-info/METADATA
+python_plus_easy-1.0.dist-info/INSTALLER
+python_plus_easy/
+python_plus_easy/__init__.py
+python_plus_easy/__pycache__/
+python_plus_easy/__pycache__/__init__.cpython-39.pyc
