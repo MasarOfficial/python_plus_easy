@@ -23,6 +23,6 @@ print(python_plus_easy.minus(123980, 2))
 To install the module, run the following command:
 ```bash
 pip install python_plus_easy
-
+```
  Thanks For Using Us!
 =====================
