@@ -1,3 +1,5 @@
+#WARNING! YOU USING A GIT HUB OLD VERSION! GO TO RELEASES AND INSTALL LATEST!
+
 #modules
 import hashlib  # for reg
 import json
